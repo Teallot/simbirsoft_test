@@ -1,0 +1,6 @@
+{
+  "test.py::TestPayment::test_authorization": true,
+  "test.py": true,
+  "test.py::TestAuthorization::test_authorization": true,
+  "test.py::TestTransactions::test_transactions": true
+}
